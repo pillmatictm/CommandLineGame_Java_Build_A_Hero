@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba38920-cebb-4e50-91a1-7b76faf60feb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CYOA_Pursuit_HW_CHONG_PILIN/org/pursuit/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/pursuit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/pursuit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CYOA_Pursuit_HW_CHONG_PILIN/org/pursuit/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CYOA_Pursuit_HW_CHONG_PILIN/org/pursuit/Main$1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +38,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="9478" />
+          <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="9478" />
+          <entry key="PLAIN_TEXT" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -58,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/pursuit/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2913">
-              <caret line="244" column="26" selection-start-line="244" selection-start-column="26" selection-end-line="244" selection-end-column="26" />
+            <state relative-caret-position="75">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -151,8 +151,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="542" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="541" />
     <option name="y" value="23" />
     <option name="width" value="893" />
     <option name="height" value="796" />
@@ -162,37 +162,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CYOA_Pursuit_HW_CHONG_PILIN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pursuit" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540751604608" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540752118533" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
@@ -241,15 +216,23 @@
       <workItem from="1540345609196" duration="45748000" />
       <workItem from="1540675938817" duration="139000" />
       <workItem from="1540676294113" duration="3117000" />
-      <workItem from="1540740440287" duration="9114000" />
+      <workItem from="1540740440287" duration="9695000" />
     </task>
+    <task id="LOCAL-00001" summary="new and improved with ASCII art">
+      <created>1540751648293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540751648293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67489000" />
+    <option name="totallyTimeSpent" value="68070000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="542" y="23" width="893" height="796" extended-state="0" />
+    <frame x="541" y="23" width="893" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.08011445" />
@@ -261,7 +244,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53835225" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.53835225" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,6 +301,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new and improved with ASCII art" />
+    <option name="LAST_COMMIT_MESSAGE" value="new and improved with ASCII art" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/pursuit/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2913">
-          <caret line="244" column="26" selection-start-line="244" selection-start-column="26" selection-end-line="244" selection-end-column="26" />
+        <state relative-caret-position="75">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
