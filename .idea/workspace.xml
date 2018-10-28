@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aba38920-cebb-4e50-91a1-7b76faf60feb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CYOA_Pursuit_HW_CHONG_PILIN/org/pursuit/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CYOA_Pursuit_HW_CHONG_PILIN/org/pursuit/Main$1.class" afterDir="false" />
-    </list>
+    <list default="true" id="aba38920-cebb-4e50-91a1-7b76faf60feb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +148,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="541" />
     <option name="y" value="23" />
     <option name="width" value="893" />
@@ -167,7 +164,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540752118533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540752823794" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
@@ -216,7 +213,7 @@
       <workItem from="1540345609196" duration="45748000" />
       <workItem from="1540675938817" duration="139000" />
       <workItem from="1540676294113" duration="3117000" />
-      <workItem from="1540740440287" duration="9695000" />
+      <workItem from="1540740440287" duration="10018000" />
     </task>
     <task id="LOCAL-00001" summary="new and improved with ASCII art">
       <created>1540751648293</created>
@@ -229,7 +226,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68070000" />
+    <option name="totallyTimeSpent" value="68393000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="541" y="23" width="893" height="796" extended-state="0" />
@@ -250,7 +247,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4888889" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.48863637" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.328125" />
