@@ -100,21 +100,149 @@ public class Main {
         }
 
         if (hero > antiHero && hero > villain)
-            System.out.println("\nCongratulations! You've built a HERO! \n" +
-                    "\nYou were destined to be different from birth. Due to a freak accident your mother survived while carrying you, \nyou acquired mutant genes. Your left side has the ability to control light energy, your right side, dark. " +
+            System.out.println("\nCongratulations! You've built a HERO! \n \n" +
+                    "                             .-\"\"\"-.    __                         \n" +
+                    "                            /       \\.q$$$$p.                      \n" +
+                    "                         __:  db     $$$$$$$$b.                    \n" +
+                    "                  _._.-\"\"  :  $\"b.   :$$$S$$$$$b                   \n" +
+                    "                .'   \"-.  \"   T. `b d$$$S$S$$$$P^.              .-,\n" +
+                    "    .qp.       :        `.     TsP' TSSS$P'S$P'   `.            `dP\n" +
+                    " ,q$$$$$b      ;b         \\  '.     /\"T$P  :P       `.      __ dP_,\n" +
+                    " :$$$$SS$b_    $$b.  __.   ;_  `-._/   Y    \\         `.   ( dP\".';\n" +
+                    " $$$$$$$S$$b.  :S$$$p._    $$$$p./      ;    \"-._       `--dP .'  ;\n" +
+                    ":$$$$P^^TS$$$b  SS$$$$$$   'T$$$$b.     ;        \"\"--.   dP  /   / \n" +
+                    "$$$$P    :$$$$bd$SSS$$$;\\  . \"^$$$$b___/            __\\dP .-\"_.-\"  \n" +
+                    "$$$P     $$$$$$b`T$SSS$  \"-.J   \"^T$/  \"\"-._       ( dP\\ /   /     \n" +
+                    ":$$      ; T$$$$b.`T$$;     d$+.     \"\"-.   \"\"--.._dP-, `._.\"      \n" +
+                    " T;     :   T$$$$$b.`^'   _d$P .$p.___   \"         \\`-'            \n" +
+                    "  `.    ;    T$$$$$$b._.dS$$$ :$$$b\"--..__..---g,   \\              \n" +
+                    "    `. :      $$$$$$$$$$S$$$P\\ TP^\"\\       ,-dP ;    ;             \n" +
+                    "      \\;   .-'$$$$$$$SSSP^^\"  \\     `._,-.-dP-' |    ;             \n" +
+                    "       :     :\"^^\"\" \"\"\"        `.   `._:'.`.\\   :    ;\\            \n" +
+                    "        \\  , :              bug  \"-. (,j\\ ` /   ;\\(// \\\\           \n" +
+                    "         `:   \\                     \"dP__.-\"    '-\\\\   \\;          \n" +
+                    "           \\   :                .--dP,             \\;              \n" +
+                    "            `--'                `dP`-'                             \n" +
+                    "                              .-j                                  \n" +
+                    "                              `-:_                                 \n" +
+                    "                                 \\)                                \n" +
+                    "                                  `--'" +
+                    "\n \nYou were destined to be different from birth. Due to a freak accident your mother survived while carrying you, \nyou acquired mutant genes. Your left side has the ability to control light energy, your right side, dark. " +
                     "\nYour mutant appearance has led you to live a difficult life. Despite the hardships, you remained strong, \nfound other mutants with like intentions, and stand together as a team to fight against evil ");
 
 
         else if (antiHero > hero && antiHero > villain)
-            System.out.println("\nCongratulations! You've built an ANTI-HERO! \n" +
-                    "\nDuring your college years, you get into a relationship with who you believe to be iss the love your life. " +
-                    "\n Despite years of loving and caring for them unconditionally, one day,\nyou get home from a long exhausting day of school and work... " +
-                    "\n to find them in your bed with someone else. You hit the ceiling, \nlaying hands on anything in your path before packing a bag of essentials and disappearing" +
-                    "\n After the incident, and a few years suffering from dispiritedness,\nyou relocate to the other side of the country for a fresh start. " +
-                    "\n There, you turn your lifestyle around while remaining isolated. \nFrom the shadows, you vow to protect loving people from domestic crises and aid them back on to the right path");
+            System.out.println("\nCongratulations! You've built an ANTI-HERO! \n \n" +
+                    "                            __          .gp.__/                            \n" +
+                    "                       .ssSSSSSs.__    d$P^^^\"                             \n" +
+                    "                    .sSSSSSSS$$$$$$$p.dP                                   \n" +
+                    "                  .SSSSSS$$$$$SSSSSSSS$bs+._                               \n" +
+                    "                .SSSS$$$$$SSSSS$$$$$$$SS$$$$b__                       /\"-. \n" +
+                    "                SSS$$$SSSSS$$$$$$$$SSSS$$$SSSS$b                   _/\"-. / \n" +
+                    "               :S$$$SSSSS$$$$$$$SSSSS$$$SSSS$$SSb                 //   /\"-.\n" +
+                    "               $$SSSSS$$$$$$SSSSS$$$$$$S$$$$S$$$Sb.               ;   /   /\n" +
+                    "               SSSSS$$$$$SSSSS$$$$$$$SS'P   SS$$S`^b._.'         /:  :   / \n" +
+                    "               :S$$$$$SSSSS$$$$$$$SSSP      :$SS$b              / ;  +-./  \n" +
+                    "                $$$$SSSS$$$$$$$SSSSSP        S$SS$;            / /  / / ;  \n" +
+                    "               d$$SSS$$$$$SSSSSSSSS' ,=._    :S':S$           / /  / / /   \n" +
+                    "              :$SSS$$$$SSSSSSSSS^\"  '  _ \";  ;   S$          / /  / / /    \n" +
+                    "              SSS$$$SSSP.-TSS^\"     .=\"$;   /    S;         / /  / / /     \n" +
+                    "             :SS$$$SSS$$ (;            \"    \\    P         / /  / : :      \n" +
+                    "             :S$$$SS$$$$b :                  \\ .'         / /  /  :  \\     \n" +
+                    "              T$$SS$$$$$j`-,    .          ,  \\         /\"-(  /   ;_-.\\    \n" +
+                    "               `TSS$$$$P   ;    `.         `.-'        /  /\\\\/   .'/_ ;;   \n" +
+                    "                 TS$$$P    :             _.-;         /  /\\\\(   / /-\" ;;   \n" +
+                    "                  SSS'      \\           :-t\"         : .-\\\\/ \"-/\":   //    \n" +
+                    "                .SS$$        `.          `-;  bug    )Y   y   /  ;  J/     \n" +
+                    "               :S$$$;          \"-.        (          '\"; j_.-/-./.-\" \\_    \n" +
+                    "               $S$SS              \"j.     :            :/  ':    `-..' \\   \n" +
+                    "              d$$SS;     :        /  \"-._.'             `.  ;       `-./;  \n" +
+                    "            _S$$$SP       \\      :                        \\: :\"-.      \\;  \n" +
+                    "          ,$$$SSSj       , `.    ;                         : ;   \"-,   /   \n" +
+                    "          S$$SS'\"^-...___       : \"-.                      ;/      ;  t    \n" +
+                    "      __.-`SS'---. `T$$$$$$q._       \"-.                  / `.    /   ;    \n" +
+                    "  .-\"\"__ `.'      `. `T$$$$$$$$b.       `.               :    \"--\"   /     \n" +
+                    " /.-\"\"  \\/          `. T$$$$$$$$$$p.     .`._            /\"-.  _   .'      \n" +
+                    "::      /             \\ T$$$$$SS$$$$$b._  `.T$p.        /    \"\" ;-'        \n" +
+                    ";;     :               \\ T$$$S$$$$$$$$$$$p._L$$$$p.    /       ,           \n" +
+                    ";;     ;                \\ $$$$$$$$$$$$$$$$$$$SS$$$$$. /                    \n" +
+                    "::     ;                 ;:$$$$$$$$$$$$$$SSSSSSSSS$$$y        '            \n" +
+                    " ;;    :                  \"^$$$$$$$$$$$$$$$$$SSSS$$$P        /             \n" +
+                    " ;;     b.                   \"^$$$$$$$$$$$$$$$$$S$$'        /              \n" +
+                    " ::     :$$p.  -._              \"^$$$$$$$$$$$$$$$'         /               \n" +
+                    "  ;;     $$$$$p.                   \"^$$$$$$$$$$P          /                \n" +
+                    "  ::     :$$$$$$p.                    \"^$$$$$$P          ,                 \n" +
+                    "   ;;     T$$$$$$$$p.                    \"^$$P                             \n" +
+                    "   ::      T$$$$$$$P \"-.                    \"           '                  \n" +
+                    "   s;;      $$$$$$P   d$$p._                     /     /                   \n" +
+                    "  S$$:      $$$$$t   d$$$$$$$p._          \"-.  .'     /                    \n" +
+                    "  SS$;;     :P^\"\\ \\.d$$$$$$$$$$$$p._         \"\"      /                     \n" +
+                    "   TS::      \\   d$$$$$$$$$$$$$$$$$$$p._            /                      \n" +
+                    "    SS.\\     .jq$$$$$$$$$$$$$$$$$$^^^^^\"\"-._      .';                      \n" +
+                    "   $$$$.tsssj' `T$$$$$$$^^^^^\"\"\"            \"-._.'  ;                      \n" +
+                    "   $$$SSS         \\                 /            \\ :                       \n" +
+                    "   '^SSS_          \\               :          :    :                       \n" +
+                    "     $$$SS.         \\              ;          :    ;                       \n" +
+                    "     '$$$SS          \\            :           ;   :                        \n" +
+                    "       \"^S$.          \\           ;          :    :                        \n" +
+                    "         S$$b.         \\                     ;    ;                        \n" +
+                    "         S$$$$          ;                   :    :                         \n" +
+                    "         'TSS$$$s.      :                   ;    ;                         \n" +
+                    "             TS$$Ss_    ;                   ;   :                          \n" +
+                    "              `SSS$$$p./                   :    ;                          \n" +
+                    "                  TS$$'            ;       ;    :                          \n" +
+                    "                   \"S              :       ;     ;                         \n" +
+                    "                   /                ;      :     :                         \n" +
+                    "                  /                 :            :                         \n" +
+                    "                 /\"-.                          .' ;                        \n" +
+                    "                /    \"\"--..__          __..--\"\"   :                        " +
+                    "\n \nDuring your college years, you get into a relationship with who you believe to be iss the love your life. " +
+                    "\nDespite years of loving and caring for them unconditionally, one day,\nyou get home from a long exhausting day of school and work... " +
+                    "\nto find them in your bed with someone else. You hit the ceiling, \nlaying hands on anything in your path before packing a bag of essentials and disappearing" +
+                    "\nAfter the incident, and a few years suffering from dispiritedness,\nyou relocate to the other side of the country for a fresh start. " +
+                    "\nThere, you turn your lifestyle around while remaining isolated. \nFrom the shadows, you vow to protect loving people from domestic crises and aid them back on to the right path");
 
-        else System.out.println("\nCongratulations! You've built a VILLAIN! \n" +
-                    "\nYou're a big shot, tailored-suited, slick-back haired lawyer with a $#!T-eating grin. \nThroughout the years, you've won almost every case, even the ones that were heavily stacked against you. " +
+        else System.out.println("\nCongratulations! You've built a VILLAIN! \n \n" +
+                    "                        .-\"\"\"\"-.\n" +
+                    "                       / j      \\\n" +
+                    "                      :.d;       ;\n" +
+                    "                      $$P        :\n" +
+                    "           .m._       $$         :\n" +
+                    "          dSMMSSSss.__$$b.    __ :\n" +
+                    "         :MMSMMSSSMMMSS$$$b  $$P ;\n" +
+                    "         SMMMSMMSMMMSSS$$$$     :b\n" +
+                    "        dSMMMSMMMMMMSSMM$$$b.dP SSb.\n" +
+                    "       dSMMMMMMMMMMSSMMPT$$=-. /TSSSS.\n" +
+                    "      :SMMMSMMMMMMMSMMP  `$b_.'  MMMMSS.\n" +
+                    "      SMMMMMSMMMMMMMMM \\  .'\\    :SMMMSSS.\n" +
+                    "     dSMSSMMMSMMMMMMMM  \\/\\_/; .'SSMMMMSSSm\n" +
+                    "    dSMMMMSMMSMMMMMMMM    :.;'\" :SSMMMMSSMM;\n" +
+                    "  .MMSSSSSMSSMMMMMMMM;    :.;   MMSMMMMSMMM;\n" +
+                    " dMSSMMSSSSSSSMMMMMMM;    ;.;   MMMMMMMSMMM\n" +
+                    ":MMMSSSSMMMSSP^TMMMMM     ;.;   MMMMMMMMMMM\n" +
+                    "MMMSMMMMSSSSP   `MMMM     ;.;   :MMMMMMMMM;\n" +
+                    "\"TMMMMMMMMMM      TM;    :`.:    MMMMMMMMM;\n" +
+                    "   )MMMMMMM;     _/\\\\    :`.:    :MMMMMMMM\n" +
+                    "  d$SS$$$MMMb.  |._\\\\\\   :`.:     MMMMMMMM\n" +
+                    "  T$$S$$$$$$$$$$m;O\\\\\\\\\"-;`.:_.-  MMMMMMM;\n" +
+                    " :$$$$$$$$$$$$$$$b_l./\\\\ ;`.:    mMMSSMMM;\n" +
+                    " :$$$$$$$$$$$$$$$$$$$./\\\\;`.:  .$$MSMMMMMM\n" +
+                    "  $$$$$$$$$$$$$$$$$$$$. \\\\`.:.$$$$SMSSSMMM;\n" +
+                    "  $$$$$$$$$$$$$$$$$$$$$. \\\\.:$$$$$SSMMMMMMM\n" +
+                    "  :$$$$$$$$$$$$$$$$$$$$$.//.:$$$$SSSSSSSMM;\n" +
+                    "  :$$$$$$$$$$$$$$$$$$$$$$.`.:$$SSSSSSSMMMP\n" +
+                    "   $$$$$$$$$;\"^$J \"^$$$$;.`.$$P  `SSSMMMM\n" +
+                    "   :$$$$$$$$$       :$$$;.`.P'..   TMMM$$b\n" +
+                    "   :$$$$$$$$$;      $$$$;.`/ c^'   d$$$$$S;\n" +
+                    "   $$$$$S$$$$;      '^^^:_d$g:___.$$$$$$SSS\n" +
+                    "   $$$$SS$$$$;            $$$$$$$$$$$$$$SSS;\n" +
+                    "  :$$$SSSS$$$$            : $$$$$$$$$$$$$SSS\n" +
+                    "  :$P\"TSSSS$$$            ; $$$$$$$$$$$$$SSS;\n" +
+                    "  j    `SSSSS$           :  :$$$$$$$$$$$$$SS$\n" +
+                    " :       \"^S^'           :   $$$$$$$$$$$$$S$;\n" +
+                    " ;.____.-;\"               \"--^$$$$$$$$$$$$$P\n" +
+                    " '-....-\"  bug                  \"\"^^T$$$$P\"" +
+                    "\n \nYou're a big shot, tailored-suited, slick-back haired lawyer with a $#!T-eating grin. \nThroughout the years, you've won almost every case, even the ones that were heavily stacked against you. " +
                     "\nThings begin to turn when you accept the case for a major drug kingpin. \nHe has you hang close by him during the duration of the trial to best prepare you for the trial. As you dive further into the case, " +
                     "\nyou realize this case might be your tremendous loss, but, youre not willing to give up the lump sum the mob paid to you in advanced. \nYou have other plans ready to set into motion. The day of the verdict comes. " +
                     "\nThe grand jury sentences the kingpin. Later that night the mob comes to take you out. \nBut you anticipated a war. You take everyone out, leaving the boss' right hand man staring down the barrel of your gun. " +
@@ -141,29 +269,24 @@ public class Main {
 
     public static void endGame() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("\nPlay Again? [Y/N]: \n");
-        String input = scanner.nextLine().toUpperCase();
-        Build_a_Hero buildAHero = new Build_a_Hero();
-        buildAHero.startGame();
-
+        String input;
 
         do {
-            System.out.println("\nPlay Again? [Y/N]: \n");
+            System.out.println("\nPlay Again? [Y/N]: ");
+            input = scanner.nextLine().toUpperCase();
+            Build_a_Hero buildAHero = new Build_a_Hero();
 
             if (input.length() == 0 || input.charAt(0) == 'Y') {
                 buildAHero.startGame();
                 playGame();
-                break;
 
             } else if (input.charAt(0) == 'N') {
                 System.out.println("Thanks for playing! Goodbye!");
-                break;
 
             } else {
                 System.out.println("Sorry! Does not compute. Try again!");
-
             }
-        } while ((input.length() == 0 || input.charAt(0) == 'Y'));
-    }
 
+        } while ((input.length() != 0 || input.charAt(0) != 'Y'));
+    }
 }
