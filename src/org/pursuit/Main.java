@@ -284,7 +284,7 @@ public class Main {
                 System.out.println("Thanks for playing! Goodbye!");
 
             } else {
-                System.out.println("Sorry! Does not compute. Try again!");
+                System.out.println("Sorry! Input is invalid. Please, Try again!");
             }
 
         } while ((input.length() != 0 || input.charAt(0) != 'Y'));
